@@ -1,0 +1,38 @@
+C:\Users\alemo\source\repos\chatClients\chatClients\bin\Debug\chatClients.exe.config
+C:\Users\alemo\source\repos\chatClients\chatClients\bin\Debug\chatClients.exe
+C:\Users\alemo\source\repos\chatClients\chatClients\bin\Debug\chatClients.pdb
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.AssemblyReference.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.SuggestedBindingRedirects.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.Form1.resources
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.Properties.Resources.resources
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.GenerateResource.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.CoreCompileInputs.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.exe
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.pdb
+C:\Users\diga\Downloads\chatClients\chatClients\bin\Debug\chatClients.exe.config
+C:\Users\diga\Downloads\chatClients\chatClients\bin\Debug\chatClients.exe
+C:\Users\diga\Downloads\chatClients\chatClients\bin\Debug\chatClients.pdb
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.csproj.AssemblyReference.cache
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.csproj.SuggestedBindingRedirects.cache
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.Form1.resources
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.Properties.Resources.resources
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.csproj.GenerateResource.cache
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.csproj.CoreCompileInputs.cache
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.exe
+C:\Users\diga\Downloads\chatClients\chatClients\obj\Debug\chatClients.pdb
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.csproj.AssemblyReference.cache
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.csproj.SuggestedBindingRedirects.cache
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.Form1.resources
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.Properties.Resources.resources
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.csproj.GenerateResource.cache
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.csproj.CoreCompileInputs.cache
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.exe
+C:\KAREN\SISTEMAS DISTRIBUIDOS\chatClients\chatClients\obj\Debug\chatClients.pdb
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.AssemblyReference.cache
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.SuggestedBindingRedirects.cache
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.Form1.resources
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.Properties.Resources.resources
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.GenerateResource.cache
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.CoreCompileInputs.cache
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.exe
+C:\Users\JHOSSETT\source\repos\chatClients\chatClients\obj\Debug\chatClients.pdb

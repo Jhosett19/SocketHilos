@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OrdenBurSort_Thread (04_10)/1.0.0": {
+        "runtime": {
+          "OrdenBurSort_Thread (04_10).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrdenBurSort_Thread (04_10)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
